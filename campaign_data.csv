@@ -1,0 +1,16 @@
+transaction_id,customer_id,transaction_date,transaction_amount,campaign_name,status
+TXN001,CUST001,2024-01-15,"$1,250.50",Email Blast,Completed
+TXN002,CUST002,15/01/2024,"2,500.00",Social Media,completed
+TXN003,CUST003,2024-01-16,,Holiday Sale,COMPLETED
+TXN004,CUST004,16/01/2024,"$750.25",Email Blast,completed
+TXN005,CUST005,2024-01-17,"$1,500.00",Holiday Sale,Pending
+TXN006,CUST006,17/01/2024,"$500.00",Social Media,completed
+TXN001,CUST001,2024-01-15,"$1,250.50",Email Blast,Completed
+TXN007,CUST007,2024-01-18,"NaN",Email Blast,completed
+TXN008,CUST008,18/01/2024,"$3,200.75",Holiday Sale,COMPLETED
+TXN009,CUST009,2024-01-19,"$425.50",Social Media,Pending
+TXN010,CUST010,19/01/2024,"$2,100.00",Email Blast,completed
+TXN011,CUST011,2024-01-20,"$950.25",Holiday Sale,completed
+TXN002,CUST002,15/01/2024,"2,500.00",Social Media,completed
+TXN012,CUST012,2024-01-21,"$1,800.00",Email Blast,COMPLETED
+TXN013,CUST013,21/01/2024,"$600.50",Social Media,completed
