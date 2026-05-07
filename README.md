@@ -17,6 +17,9 @@ Your objective is to debug and complete the `analyze_campaigns.py` script to mee
 
 **Requirements:** Python 3.8+
 
+> **No local environment?** You can work directly in your browser using Google Colab:
+> [Open in Google Colab](https://colab.research.google.com/drive/1-rQgwrzwXHLMzAMX6KbSzmYO3TrwVWvU?hl=es#scrollTo=yN0GqkblyL0s)
+
 1. Clone this repository:
    ```bash
    git clone git@github.com:Danielmtv1/challenge_python-sql.git
